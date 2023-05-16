@@ -1,0 +1,1 @@
+# otomatik-resim
